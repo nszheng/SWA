@@ -21,7 +21,7 @@ KLFPKFAGIAHGDL
 ```
 
 ## Sample Output
-Output displays the input sequences, the score matrix, and the best local alignment with the alignment score.
+Output displays the input sequences, the score matrix, and the best local alignment with the alignment score. The following sample input and output can be found in the sample-input.txt and sample-output.txt files. Additional example input and output with longer sequences are contained in the Examples folder. 
 
 ```
 ----------------------------------------------------
