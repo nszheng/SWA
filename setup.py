@@ -6,6 +6,5 @@ setup(
     author_email="neil.zheng@yale.edu",
     description="Basic implementation of Smith-Waterman Algorithm",
     license="GPL",
-    py_modules = ['sw'],
-    long_description=open('README.txt').read()
+    py_modules = ['sw']
 )
