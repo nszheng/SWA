@@ -6,7 +6,7 @@ This is a basic implementation of Smith-Waterman local alignment algorithm for M
 ## Install
 Quick method to install:
     
-    sudo pip install git+https://github.com/nszheng/Smith-Waterman.git
+    sudo pip install git+git://github.com/nszheng/Smith-Waterman.git
     
 ## Usage
     python sw.py -i <input file> -s <score file> -o <open gap weight> -e <extend gap weight>
