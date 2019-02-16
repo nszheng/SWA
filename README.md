@@ -21,7 +21,7 @@ KLFPKFAGIAHGDL
 ```
 
 ## Sample Output
-
+Output displays the input sequences, the score matrix, and the best local alignment with the alignment score.
 
 ```
 ----------------------------------------------------
@@ -60,6 +60,7 @@ L	0	0	4	4	7	7	15	20	18
 ----------------------------------------------------
 
 Alignment Score: 20
+
   (FDKF---KH--L)K
    | ||    |  |
 KL(FPKFAGIAHGDL)
