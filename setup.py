@@ -6,5 +6,5 @@ setup(
     author_email="neil.zheng@yale.edu",
     description="Basic implementation of Smith-Waterman Algorithm",
     license="GPL",
-    py_modules = ['smith-waterman']
+    py_modules = ['sw']
 )
