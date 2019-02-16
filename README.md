@@ -5,6 +5,7 @@ This is a basic implementation of Smith-Waterman local alignment algorithm for M
 
 ## Install
 Quick method to install:
+    
     sudo pip install git+git://github.com/nszheng/Smith-Waterman.git
     
 ## Usage
