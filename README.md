@@ -12,17 +12,17 @@ Quick method to install:
     python sw.py -i <input file> -s <score file> -o <open gap weight> -e <extend gap weight>
     
 ## Example Code
-    python sw.py -i sample-input.txt -s blosum62.txt -o -2 -e -1
+    python sw.py -i sample-input.txt -s sample-score-matrix.txt -o -2 -e -1
 
 ## Sample Input
-Input .txt file has sequence 1 on line 1 and sequence 2 on line 2:
+The input (sample-input.txt) should have sequence 1 on line 1 and sequence 2 on line 2:
 ```
 FDKFKHLK
 KLFPKFAGIAHGDL
 ```
 
 ## Sample Output
-Sample output produced using the blosum62.txt score matrix. It displays the input sequences, the score matrix, and the best local alignment with the alignment score. 
+The output displays the input sequences, the score matrix, and the best local alignment with the alignment score. The following sample output (sample-output.txt) was produced using the sample score matrix (sample-score-matrix.txt). 
 
 Additional example input and output with longer sequences are contained in the Examples folder. 
 
