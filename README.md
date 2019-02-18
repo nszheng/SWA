@@ -15,10 +15,11 @@ Quick method to install:
     python sw.py -i sample-input.txt -s sample-score-matrix.txt -o -2 -e -1
 
 ## Sample Input
-The input (sample-input.txt) should have sequence 1 on line 1 and sequence 2 on line 2:
+The input (sample-input.txt) should have sequence 1 on line 1 and sequence 2 on line 2 with a new line character '\n' terminating each line:
 ```
 FDKFKHLK
 KLFPKFAGIAHGDL
+
 ```
 
 ## Sample Output
